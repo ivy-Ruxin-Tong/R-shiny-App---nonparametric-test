@@ -1,5 +1,5 @@
 library(shiny)
-ui <- fluidPage( titlePanel("F test "),
+ui <- fluidPage( titlePanel("F test"),
                  
                  # Sidebar layout with input and output definitions ----
                  sidebarLayout(
